@@ -4,7 +4,7 @@ exports.id = 888;
 exports.ids = [888];
 exports.modules = {
 
-/***/ 5318:
+/***/ 2426:
 /***/ (function(module) {
 
 function _interopRequireDefault(obj) {
